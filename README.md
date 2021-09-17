@@ -4,7 +4,7 @@ Implement Laplacian filtering to achieve edge detection.
 ## Steps for Frequency domain filtering
   1. read Image to double
   2. Padding & Centering 
-  3. 2D Fourier transform (DFT) to get F(u,v)  
+  3. 2D Fourier transform (DFT) to get **F(u,v) ** 
   4. Design Laplacian filter  
      ![image](https://user-images.githubusercontent.com/78803926/133756906-866e74bf-31e2-47fd-a458-0258c51d497e.png)  
   6. Apply filtering  
