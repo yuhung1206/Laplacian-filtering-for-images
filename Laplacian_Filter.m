@@ -1,7 +1,7 @@
 clc; clear all; close all; 
 
 % read Image to double
-ImageMatrix = im2double( imread('Bird 1.tif' ));
+ImageMatrix = im2double( imread('Bird 1.tif' )); % alter the image source
 [M, N] = size(ImageMatrix);
 
 % creating array for DFT & IDFT
