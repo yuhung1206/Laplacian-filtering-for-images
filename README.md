@@ -1,4 +1,4 @@
-# Laplacian-filtering
+# Laplacian-filtering-for-images
 Implement Laplacian filtering to achieve edge detection.
 
 ## Steps for Frequency domain filtering
